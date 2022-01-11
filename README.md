@@ -1,3 +1,5 @@
+# Beginner Programming with Golang - Conways Game of Life
+
 Who is this tutorial for?
 * Programming beginners and people with programming experience who want to learn the language
 * One of the core aspects of go is simplicity and clarity
